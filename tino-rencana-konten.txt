@@ -6,4 +6,3 @@ RENCANA KONTEN TINO
 -- PHP
 -- Belajar GIT
 -- JAVASCRIPT
--- Python
