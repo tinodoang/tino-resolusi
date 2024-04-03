@@ -3,4 +3,5 @@ RENCANA KONTEN TINO
 -- LARAVEL
  * Project Baru
 -- PHP
+-- Belajar GIT
 -- JAVASCRIPT
