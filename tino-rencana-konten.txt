@@ -2,7 +2,7 @@ RENCANA KONTEN TINO
 
 -- LARAVEL
  * Project Baru
+ * Tutorial 
 -- PHP
 -- Belajar GIT
 -- JAVASCRIPT
--- Java
